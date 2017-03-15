@@ -1,0 +1,7 @@
+C:\Users\forey\Desktop\SoftwareQ-T\SoftwareQ_T\bin\Debug\SoftwareQ_T.dll
+C:\Users\forey\Desktop\SoftwareQ-T\SoftwareQ_T\bin\Debug\SoftwareQ_T.pdb
+C:\Users\forey\Desktop\SoftwareQ-T\SoftwareQ_T\bin\Debug\nunit.framework.dll
+C:\Users\forey\Desktop\SoftwareQ-T\SoftwareQ_T\bin\Debug\nunit.framework.xml
+C:\Users\forey\Desktop\SoftwareQ-T\SoftwareQ_T\obj\Debug\SoftwareQ_T.csprojResolveAssemblyReference.cache
+C:\Users\forey\Desktop\SoftwareQ-T\SoftwareQ_T\obj\Debug\SoftwareQ_T.dll
+C:\Users\forey\Desktop\SoftwareQ-T\SoftwareQ_T\obj\Debug\SoftwareQ_T.pdb

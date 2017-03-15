@@ -1,11 +1,14 @@
-﻿using System;
+﻿using NUnit.Framework;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using Telerik.JustMock;
 using System.Threading.Tasks;
 
 namespace SoftwareQ_T
 {
+    
     public class SoftQ_T
     {
         
