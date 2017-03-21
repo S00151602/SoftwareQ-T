@@ -43,7 +43,7 @@ namespace SoftwareQ_T
 
                 }
 
-                if (age >= 36)
+                else if (age >= 36)
                 {
                     premium = 5.0;
 
@@ -58,7 +58,7 @@ namespace SoftwareQ_T
             if(age >= 50)
             {
                 premium = premium * 0.15;
-                return premium;
+               // return premium;
             }
             return premium;
         }
