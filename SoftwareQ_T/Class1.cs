@@ -6,18 +6,22 @@ using System.Text;
 using Telerik.JustMock;
 using System.Threading.Tasks;
 
+
 namespace SoftwareQ_T
 {
     
     public class SoftQ_T
     {
-        
 
-        public double CalcPremium(int age, string gender)
+        
+        public double CalcPremium(double age, string gender)
         {
+            
             double premium = 0;
             if (gender == "female")
             {
+                
+
                 if ((age >= 18) && (age <= 30))
                 {
                     premium = 5.0;

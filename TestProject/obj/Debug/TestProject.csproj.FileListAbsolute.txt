@@ -1,0 +1,8 @@
+C:\Users\forey\Desktop\SoftwareQ-T\TestProject\bin\Debug\TestProject.dll
+C:\Users\forey\Desktop\SoftwareQ-T\TestProject\bin\Debug\TestProject.pdb
+C:\Users\forey\Desktop\SoftwareQ-T\TestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\forey\Desktop\SoftwareQ-T\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+C:\Users\forey\Desktop\SoftwareQ-T\TestProject\obj\Debug\TestProject.dll
+C:\Users\forey\Desktop\SoftwareQ-T\TestProject\obj\Debug\TestProject.pdb
+C:\Users\forey\Desktop\SoftwareQ-T\TestProject\bin\Debug\SoftwareQ_T.dll
+C:\Users\forey\Desktop\SoftwareQ-T\TestProject\bin\Debug\SoftwareQ_T.pdb
